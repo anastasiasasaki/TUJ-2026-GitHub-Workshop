@@ -1,0 +1,7 @@
+is:       cannot open `is' (No such file or directory)
+shared:   cannot open `shared' (No such file or directory)
+by:       cannot open `by' (No such file or directory)
+all:      cannot open `all' (No such file or directory)
+Team:     cannot open `Team' (No such file or directory)
+2:        cannot open `2' (No such file or directory)
+members.: cannot open `members.' (No such file or directory)

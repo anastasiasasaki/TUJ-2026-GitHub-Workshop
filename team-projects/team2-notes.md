@@ -9,9 +9,11 @@
 
 | Name | GitHub |
 |------|--------|
-| thomas | @ThomasGK42 |
-| anastasia | @anastasiasasaki |
-|gianmarco|@GiandalfTheGrey|
+
+| Person A | @anastasiasasaki |
+| Person B | @GiandalfTheGrey |
+| Person C | @ThomasGK42      |
+
 
 ---
 
@@ -22,7 +24,10 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-gittttttt
+
+
+How to become a super saiyan
+
 
 ---
 
@@ -30,4 +35,4 @@ gittttttt
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
+i deleted my version
