@@ -23,6 +23,7 @@
 **What is the most useful Git command you learned today, and why?**
 
 git status
+
 ---
 
 ## ✅ Resolution Notes
