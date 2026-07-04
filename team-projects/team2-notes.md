@@ -9,8 +9,9 @@
 
 | Name | GitHub |
 |------|--------|
-| Person A | @tbd |
-| Person B | @tbd |
+| thomas | @ThomasGK42 |
+| anastasia | @anastasiasasaki |
+|gianmarco|@GiandalfTheGrey|
 
 ---
 
@@ -21,7 +22,7 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-_(Edit this line on your branch — your teammate will write something different)_
+gittttttt
 
 ---
 
