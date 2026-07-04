@@ -9,9 +9,9 @@
 
 | Team0 | GitHub |
 |------|--------|
-| Carl | @tbd |
-| Ai | @tbd |
-| Clarence | @tbd |
+| Carl | @carlmasters02 |
+| Ai | @quackmyheart |
+| Clarence | @cy181 |
 
 ---
 s
@@ -22,7 +22,9 @@ s
 
 **What is the most useful Git command you learned today, and why?**
 
-Something 
+git add .
+
+Something different from Carl
 
 ---
 
@@ -30,4 +32,6 @@ Something
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
+We accepted the most up to date current changes.
+
+
