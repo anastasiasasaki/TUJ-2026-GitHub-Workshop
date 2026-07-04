@@ -22,7 +22,7 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-git status
+How to become a super saiyan
 
 ---
 
