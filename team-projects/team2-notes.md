@@ -30,4 +30,4 @@ git status
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
+We combined both answers to show two different perspectives.
